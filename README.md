@@ -13,7 +13,7 @@ If you want to make this an **exe file** then:\
 **1.** Make sure you have pyinstaller installed on your pc.\
 Pyinstaller download tutorial I **found**: https://www.youtube.com/watch?v=DP5aRpMNJG8 \
 **2.** Open CMD and type *cd downloads* and press enter.\
-**!IMPORTANT. MAKE SURE YOU SAVED THE client.py AND target.py TO YOUR DOWNLOADS FOLDER**
+**!IMPORTANT. MAKE SURE YOU SAVED THE client.py AND target.py TO YOUR DOWNLOADS FOLDER**\
 **3.** Then type *pyinstaller target.py --onefile --noconsole --noupx*\
 **WAIT ABOUT 1 MINUTE**\
 **4.** Do the same thing again but replace *target.py* with *client.py*.\
