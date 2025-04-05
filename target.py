@@ -1,3 +1,8 @@
+"""
+THIS WAS CODED BY CRYSTALPT. PLEASE DO NOT STEAL WITHOUT CREDITS.
+MAIN GITHUB LINK: https://github.com/CrystalPT
+"""
+
 # target.py (runs on PC you want to shut down)
 import socket
 import os
